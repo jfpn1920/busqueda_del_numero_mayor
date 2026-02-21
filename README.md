@@ -1,4 +1,4 @@
-## 👋 ¡Bienvenidos usuarios a mi proyecto! conversor de temperaturabusqueda del numero mayor
+## 👋 ¡Bienvenidos usuarios a mi proyecto! busqueda del numero mayor
 
 <img src="imagen_presentacion.png" alt="Presentación" width="205" align="left" style="margin-right:20px; border-radius:5px;">  
 <p style="text-align: justify;">
